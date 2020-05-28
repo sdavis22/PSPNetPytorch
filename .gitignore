@@ -55,7 +55,6 @@
 
 # personal
 *.log
-*.pth
 *.caffemodel
 exp/
 summary/
@@ -65,7 +64,6 @@ back/
 *.png
 *.jpg
 *.log
-*.pth
 events*
 config/
 dataset/
